@@ -1,12 +1,11 @@
 {
-  "name": "modit-templates-node-mongo",
+  "name": "modit-templates-getting-started",
   "private": true,
   "version": "0.0.1",
   "description": "Example webapp - use to test Docker/Fig setup",
   "author": "Sam Workman <sam@mod.it>",
   "dependencies": {
     "express": "4.9.x",
-    "mongoose": "3.8.x",
     "ejs": "1.0.x"
   },
   "scripts": {

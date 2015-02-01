@@ -1,4 +1,4 @@
-node-mongo
+getting-started
 ==========
 
-example webapp - use to test your local Docker/Fig setup
+A Dockerized webapp with Node and Express - use to test your local Docker/Fig setup

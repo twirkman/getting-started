@@ -29,3 +29,5 @@ node_modules
 
 # Data
 .data
+
+*.DS_Store
